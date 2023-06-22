@@ -1,0 +1,10 @@
+{
+  "dominant-seventh": "7 dom",
+  "augmented-seventh": "+maj7",
+  "-seventh": "7",
+  "major": "M",
+  "minor": "m",
+  "augmented": "+",
+  "diminished": "o",
+  "-": "b"
+}
